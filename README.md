@@ -1,5 +1,5 @@
 # Credit-Card-Default-Analysis
-Hardware & Software used
+# Hardware & Software used
 
 The project was developed using various hardware and software components. The hardware used for this project included a computer system with sufficient computational capabilities to handle the data analysis and modeling tasks.
 The software tools and technologies utilized in this project include:
@@ -29,3 +29,13 @@ Evaluation Metrics: To assess the performance of the models, standard evaluation
 Version Control: Git and GitHub were used for version control and collaborative development of the project code. The GitHub repository provided a centralized location for storing and sharing the project code, facilitating collaboration and version tracking.
 
 By leveraging these hardware and software components, I was able to perform in-depth data analysis, develop predictive models, and draw meaningful insights from the Credit Card Dataset.
+
+
+
+# Introduction	
+
+The aim of this study is to utilize supervised machine learning algorithms to identify the key drivers that determine the likelihood of credit card default, emphasizing the underlying mathematical aspects of the methods employed. Credit card default occurs when individuals become significantly delinquent in their credit card payments. In Taiwan, card-issuing banks overextended credit and cash cards to unqualified applicants in an attempt to expand their market share. Consequently, many cardholders, regardless of their repayment capacity, excessively utilized their credit cards for consumption, resulting in heavy credit and debt accumulation.
+
+The objective is to develop an automated model capable of identifying the primary factors influencing credit card default and predicting default occurrences based on client information and historical transaction data. This report presents an overview of the supervised machine learning paradigm, accompanied by a comprehensive explanation of the techniques and algorithms employed in constructing the models. Specifically, Logistic Regression, Random Forest, and Support Vector Machines algorithms have been applied.
+
+The analysis was performed using Python as the primary programming language. Several machine learning and statistical frameworks were employed, including scikit-learn, numpy, pandas, imblearn, as well as data visualization libraries such as matplotlib and seaborn.
